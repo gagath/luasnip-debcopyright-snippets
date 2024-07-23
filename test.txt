@@ -1,0 +1,6 @@
+# vim: ft=debcopyright
+#
+# Use this file to test the snippets, the filetype will be set to
+# debcopyright.
+
+
