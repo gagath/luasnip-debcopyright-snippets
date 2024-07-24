@@ -1,6 +1,6 @@
 return {
 	s('head', {
-		t({'Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/', ''}),
+		t({'Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/', ''}),
 		t('Upstream-Name: '),
 		i(1, 'Upstream project name'),
 		t({'', 'Upstream-Contact: '}),
