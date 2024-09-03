@@ -167,6 +167,25 @@ return {
 		t({'', ''}),
 	}),
 
+	s('gpl-3', {
+		t({'License: GPL-3', ''}),
+		t({' This program is free software: you can redistribute it and/or modify', ''}),
+		t({' it under the terms of the GNU General Public License version 3 as', ''}),
+		t({' published by the Free Software Foundation.', ''}),
+		t({' .', ''}),
+		t({' This program is distributed in the hope that it will be useful,', ''}),
+		t({' but WITHOUT ANY WARRANTY; without even the implied warranty of', ''}),
+		t({' MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the', ''}),
+		t({' GNU General Public License for more details.', ''}),
+		t({' .', ''}),
+		t({' You should have received a copy of the GNU General Public License', ''}),
+		t({' along with this program.  If not, see <http://www.gnu.org/licenses/>.', ''}),
+		t({' .', ''}),
+		t({' On Debian systems, the complete text of the GNU General Public', ''}),
+		t({' License version 3 can be found in "/usr/share/common-licenses/GPL-3".', ''}),
+		t({'', ''}),
+	}),
+
 	s('gpl-3+', {
 		t({'License: GPL-3+', ''}),
 		t({' This program is free software: you can redistribute it and/or modify', ''}),
