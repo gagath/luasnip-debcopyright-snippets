@@ -63,7 +63,7 @@ return {
 		t({' 3. The name of the author may not be used to endorse or promote products', ''}),
 		t({'    derived from this software without specific prior written permission.', ''}),
 		t({' .', ''}),
-		t({' THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR', ''}),
+		t({" THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR", ''}),
 		t({' IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES', ''}),
 		t({' OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.', ''}),
 		t({' IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,', ''}),
